@@ -268,3 +268,36 @@ li a{
   font-size: 50px;
   font-weight: 800px;
 }
+
+#contact .formulario{
+  margin: 0px auto;
+}
+
+input, textarea{
+  border: none;
+  border-radius: 3px;
+  padding: 2px 10px;
+}
+
+button{
+  width: 25%;
+  background: white;
+  color: gray;
+  font-size: 25px;
+  border: none;
+  border-radius: 25px;
+  padding: 10px;
+  cursor: pointer;
+  /* border: 2px solid black; */
+  box-shadow: 0 0 10px;
+  font-weight: 600;
+}
+
+.logo-form{
+  float: right;
+  margin: 0px 100px 130px 110px;
+}
+
+.icono{
+  margin: 30px 0px 0px 450px;
+}
